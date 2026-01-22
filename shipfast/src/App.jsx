@@ -24,7 +24,7 @@ export default function App() {
           path="/"
           element={
             <>
-           
+              <h1>hello</h1>
                <Hero />
               <HeroBottom />
               <Features />
